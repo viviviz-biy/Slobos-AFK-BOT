@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "labor",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
+    "ip": "fuhthisgame.aternos.me",
     "port": 29195,
-    "version": "1.21.1"
+    "version": "26.3"
   },
   "position": {
     "enabled": true,
@@ -30,9 +30,9 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "cocuk",
+        "can u acc tell me where u are",
+        "srsly"
       ]
     },
     "chat-log": true,
